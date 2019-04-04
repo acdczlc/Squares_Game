@@ -1,4 +1,4 @@
-# Squares_Game
+# Squares Game
 
 Requirements:
 - Two players can play squares game.
